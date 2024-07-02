@@ -1,7 +1,7 @@
 ![Joel's GitHub Banner](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
 
 <h1 align="center">Hi 👋, I'm Joel Cornfield</h1>
-<h3 align="center">A passionate 2nd year computer science student at the University of Western Australia in Perth.</h3>
+<h3 align="center">A passionate 3rd year computer science student at the University of Western Australia in Perth.</h3>
 
 - 🌱 I’m currently learning **Java + Data Structures and algorithms**
 
