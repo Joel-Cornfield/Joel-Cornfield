@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Joel Cornfield</h1>
 <h3 align="center">A passionate 3rd year computer science student at the University of Western Australia in Perth.</h3>
 
-- 🌱 I’m currently learning **Java + Data Structures and algorithms**
+- 🌱 I’m currently learning **Advanced Algorithms, Cybersecurity, etc**
 
 - 📫 How to reach me **cornfieldjoel@gmail.com**
 
