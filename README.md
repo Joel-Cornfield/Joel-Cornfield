@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Joel Cornfield</h1>
 <h3 align="center">A passionate computer science graduate from the University of Western Australia in Perth.</h3>
 
-- 🌱 I’m currently learning **Advanced Algorithms, Cybersecurity, etc**
+- 🌱 I’m currently working on various individual projects and continuing to advance my skills.
 
 - 📫 How to reach me **cornfieldjoel@gmail.com**
 
