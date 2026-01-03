@@ -6,7 +6,7 @@
 - 🌱 I’m currently working on various individual projects and continuing to advance my skills.
 
 - 📫 How to reach me **cornfieldjoel@gmail.com**
-- Portfolio - <a href="https://joel-cornfield.github.io/Portfolio">Follow this link...</a>
+- Portfolio - <a href="https://joel-cornfield.github.io/Portfolio">Click Here</a>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
